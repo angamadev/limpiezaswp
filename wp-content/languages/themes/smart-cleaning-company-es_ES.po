@@ -1,0 +1,186 @@
+# Translation of Themes - Smart Cleaning Company in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Smart Cleaning Company package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-06-28 10:56:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Smart Cleaning Company\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Smart Cleaning Company is a suitable free WordPress Theme for professional cleaning companies, labor services, apartment cleaners, industrial cleaning, plumbing services, housemaid solutions, washing services, housekeeping facilities, etc. This theme is a sophisticated theme with a retina-ready design and user-friendly interface allowing users with or without any coding skills to create a stunning website. The responsive layout fits every screen no matter what the screen sizes and resolutions are. The entire design is clean and minimal focusing on the content and important info. There are many personalization options available with the theme making it suitable to be used as a multipurpose theme. There are a lot of Call to Action Button (CTA) to look for the conversions and social media options that will take care of the promotions. Optimized codes of the theme make sure that you get a lightweight website that is easy to load and gives a faster page load time. The clean codes improve your website’s performance and its mobile-friendly design make it work well on mobile devices. This modern theme is interactive and comes with a Bootstrap-based design. This makes it easy to work with the theme, and there are translation-ready options available as it is WPML and RTL compatible."
+msgstr "Smart Cleaning Company es un tema gratuito para WordPress, adecuado para empresas de limpieza profesional, servicios de mano de obra, limpiadores de apartamentos, limpieza industrial, servicios de fontanería, soluciones para empleadas domésticas, servicios de lavado, instalaciones de limpieza, etc. Este tema es un tema sofisticado con un diseño listo para retina y una interfaz fácil de usar que permite a los usuarios con o sin conocimientos de codificación crear un sitio web impresionante. El diseño responsive se adapta a todas las pantallas, independientemente de su tamaño y resolución. Todo el diseño es limpio y minimalista, centrándose en el contenido y la información importante. Hay muchas opciones de personalización disponibles con el tema, lo que lo hace adecuado para ser utilizado como tema multiuso. Hay muchos botones de llamada a la acción para buscar las conversiones y opciones de redes sociales que se encargarán de las promociones. Los códigos optimizados del tema te aseguran un sitio web ligero, fácil de cargar y con un tiempo de carga de página más rápido. El código limpio mejora el rendimiento de tu sitio web y su diseño apto para móviles hace que funcione bien en dispositivos móviles. Este moderno tema es interactivo y tiene un diseño basado en Bootstrap. Esto facilita el trabajo con el tema, y dispone de opciones de traducción, ya que es compatible con WPML y RTL."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Smart Cleaning Company"
+msgstr "Smart Cleaning Company"
+
+#: functions.php:35
+msgid "https://demo.themagnifico.net/eard/wathiqa/smart-cleaning-company-free-doc/"
+msgstr "https://demo.themagnifico.net/eard/wathiqa/smart-cleaning-company-free-doc/"
+
+#: comments.php:89
+msgid "Post Comment"
+msgstr "Publicar comentario"
+
+#: comments.php:88
+msgid "Leave a Reply"
+msgstr "Deja una respuesta"
+
+#: functions.php:116
+msgid "Customizer Options"
+msgstr "Opciones del personalizador"
+
+#: functions.php:32
+msgid "Buy Cleaning Company Pro"
+msgstr "Compra Cleaning Company Pro"
+
+#: functions.php:29
+msgid "https://demo.themagnifico.net/eard/wathiqa/smart-cleaning-company-pro-doc/"
+msgstr "https://demo.themagnifico.net/eard/wathiqa/smart-cleaning-company-pro-doc/"
+
+#: functions.php:26
+msgid "https://www.themagnifico.net/products/house-cleaning-wordpress-theme"
+msgstr "https://www.themagnifico.net/products/house-cleaning-wordpress-theme"
+
+#: functions.php:23
+msgid "https://demo.themagnifico.net/cleaning-company/"
+msgstr "https://demo.themagnifico.net/cleaning-company/"
+
+#: functions.php:20
+msgid "https://wordpress.org/support/theme/smart-cleaning-company/reviews/#new-post"
+msgstr "https://wordpress.org/support/theme/smart-cleaning-company/reviews/#new-post"
+
+#: functions.php:17
+msgid "https://wordpress.org/support/theme/smart-cleaning-company"
+msgstr "https://wordpress.org/support/theme/smart-cleaning-company"
+
+#: page-template/home-template.php:79
+msgid "Read More"
+msgstr "Leer más"
+
+#. Template Name of the theme
+msgid "Home Template"
+msgstr "Plantilla de la página de inicio"
+
+#: header.php:59
+msgid "Call Us"
+msgstr "Llámanos"
+
+#: header.php:54
+msgid "Location"
+msgstr "Ubicación"
+
+#: header.php:49
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: header.php:41
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: functions.php:203
+msgid "Add widgets here."
+msgstr "Añade widgets aquí."
+
+#: functions.php:201
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:105
+msgid "Select Category to display Services"
+msgstr "Selecciona la categoría para mostrar los servicios"
+
+#: functions.php:80
+msgid "Section Title"
+msgstr "Título de la sección"
+
+#: functions.php:73
+msgid "Here you have to select category which will display perticular what we do in the home page."
+msgstr "Aquí tienes que seleccionar la categoría de la que se mostrarán las últimas entradas en la página de inicio."
+
+#: functions.php:72
+msgid "What we do Section"
+msgstr "Sección Qué hacemos"
+
+#: functions.php:14
+msgid "Cleaning Company Pro"
+msgstr "Cleaning Company Pro"
+
+#: footer.php:104
+msgid "TOP"
+msgstr "ARRIBA"
+
+#. translators: 1: Theme author.
+#: footer.php:92
+msgid "by %1$s."
+msgstr "de %1$s."
+
+#. translators: 1: Theme name,
+#: footer.php:87
+msgid " %1$s "
+msgstr " %1$s "
+
+#. translators: %s: CMS name, i.e. WordPress.
+#: footer.php:79
+msgid "Proudly powered by %s"
+msgstr "Funciona gracias a %s"
+
+#: footer.php:76
+msgid "https://wordpress.org/"
+msgstr "https://es.wordpress.org/"
+
+#: comments.php:80
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:56 comments.php:70
+msgid "Newer Comments"
+msgstr "Comentarios más recientes"
+
+#: comments.php:55 comments.php:69
+msgid "Older Comments"
+msgstr "Comentarios anteriores"
+
+#: comments.php:53 comments.php:67
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentario sobre «%2$s»"
+msgstr[1] "%1$s comentarios sobre «%2$s»"
+
+#. translators: %s: post title
+#: comments.php:32
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Un comentario sobre «%s»"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.themagnifico.net/"
+msgstr "https://www.themagnifico.net/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "TheMagnifico52"
+msgstr "TheMagnifico52"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.themagnifico.net/products/free-cleaning-company-wordpress-theme"
+msgstr "https://www.themagnifico.net/products/free-cleaning-company-wordpress-theme"

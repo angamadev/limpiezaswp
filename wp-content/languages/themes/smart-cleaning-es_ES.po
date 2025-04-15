@@ -1,0 +1,885 @@
+# Translation of Themes - Smart Cleaning in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Smart Cleaning package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-06-28 10:56:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Smart Cleaning\n"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Smart Cleaning"
+msgstr "Smart Cleaning"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Smart Cleaning theme is suitable for any cleaning business or service. It includes floor cleaning, house cleaning, washing services, car washing, housekeeping, cleaner, maid service, disinfectant, handyman business, pest control, 5s training, PPE Kit and maintenance. It also includes services like construction, HVAC, plumbing, power companies, corporate cleaning solutions, pool services, electrical, general service company, janitor, sanitizing, mechanic workshops, plumbers, Maid clean services, flooring and hardwood, painting and staining and more such local business. The theme has a beautiful, luxurious and sophisticated design that will surely attract your visitors. It is a SEO-friendly theme that means your website will rank soon on major search engines like Google. Also the responsive layout makes it mobile-friendly and it fits well on all devices screen sizes. It is translation-ready and supports RTL layout. You are allowed to add shortcodes that will further improve the functionality of the website. It has secure and clean codes and is optimized for speed. Implemented on bootstrap framework that is why it is handy to use. It is a user-friendly theme and has a lot of customization and personalization options. The minimal design is also responsible for faster page load times. It also provides a testimonial section for your visitors to comment."
+msgstr "El tema Smart Cleaning es adecuado para cualquier negocio o servicio de limpieza. Incluye limpieza de suelos, limpieza de casas, servicios de lavado, lavado de coches, limpieza doméstica, limpiador, servicio de limpieza, desinfectante, negocio de manitas, control de plagas, formación 5s, kit EPI y mantenimiento. También incluye servicios como construcción, climatización, fontanería, empresas eléctricas, soluciones de limpieza corporativa, servicios de piscinas, electricidad, empresa de servicios generales, conserjería, desinfección, talleres mecánicos, fontaneros, servicios de limpieza de camareras, suelos y maderas nobles, pintura y tintado y más negocios locales de este tipo. El tema tiene un diseño bonito, lujoso y sofisticado que sin duda atraerá a tus visitantes. Es un tema adaptado para SEO, lo que significa que tu sitio web posicionará pronto en los principales motores de búsqueda como Google. Además, su diseño responsive lo hace apto para móviles y se adapta bien a todos los tamaños de pantalla. Está preparado para la traducción y admite el diseño RTL. Puedes añadir shortcodes que mejorarán aún más la funcionalidad del sitio web. Tiene códigos seguros y limpios y está optimizado para la velocidad. Está construido sobre el framework bootstrap, por lo que es práctico de usar. Es un tema fácil de usar y tiene muchas opciones de personalización. El diseño minimalista también es responsable de tiempos de carga de página más rápidos. También proporciona una sección de testimonios para que tus visitantes hagan comentarios."
+
+#: inc/customizer.php:697
+msgid "Post Page Image Border Radius"
+msgstr "Radio de borde de imagen de la página de entradas"
+
+#: inc/customizer.php:645
+msgid "Show / Hide Related product"
+msgstr "Mostrar / Ocultar productos relacionados"
+
+#: inc/customizer.php:1438
+msgid "Footer Background Image"
+msgstr "Imagen de fondo de pie de página"
+
+#: inc/customizer.php:1330
+msgid "500px"
+msgstr "500px"
+
+#: inc/customizer.php:1328
+msgid "Add the slider height in px(eg. 500px)."
+msgstr "Añade la altura del carrusel en px(ej. 500px)."
+
+#: inc/customizer.php:1327
+msgid "Slider Height"
+msgstr "Altura del carrusel"
+
+#: comments.php:88 inc/customizer.php:876
+msgid "Leave a Reply"
+msgstr "Deja una respuesta"
+
+#: comments.php:89 inc/customizer.php:890
+msgid "Post Comment"
+msgstr "Publicar comentario"
+
+#: inc/customizer.php:888
+msgid "Add Comment Button Text"
+msgstr "Texto del botón de añadir comentario"
+
+#: inc/customizer.php:874
+msgid "Add Comment Title"
+msgstr "Título de añadir comentario"
+
+#: functions.php:736
+msgid "View Demo"
+msgstr "Ver demo"
+
+#: functions.php:733
+msgid "Documentation"
+msgstr "Documentación"
+
+#: inc/customizer.php:855
+msgid "Check this box to enable post category and tags on single post."
+msgstr "Marca esta casilla para activar la categoría y las etiquetas las entradas individuales."
+
+#: inc/customizer.php:853
+msgid "Enable Single Post Category and Tags"
+msgstr "Activar categoría y etiquetas en entradas individuales"
+
+#: inc/customizer.php:768
+msgid "Check this box to enable category and tags on post page."
+msgstr "Marca esta casilla para activar la categoría y las etiquetas en la página de entradas."
+
+#: inc/customizer.php:766
+msgid "Enable Post Page Category and Tags"
+msgstr "Habilitar categoría y etiquetas de página de entradas"
+
+#: functions.php:732
+msgid "Get started"
+msgstr "Primeros pasos"
+
+#: functions.php:731
+msgid "Get Started With Theme By Clicking On Getting Started."
+msgstr "Comienza con el tema haciendo clic en «Primeros pasos»."
+
+#: functions.php:730
+msgid "Thank You For Choosing "
+msgstr "Gracias por elegir "
+
+#: inc/customizer.php:576 inc/customizer.php:602
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#: inc/customizer.php:577 inc/customizer.php:603
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#: inc/customizer.php:1304
+msgid "Slider Image Opacity"
+msgstr "Opacidad de imagen del carrusel"
+
+#: inc/customizer.php:587
+msgid "Hide Single Product Page Sidebar"
+msgstr "Ocultar barra lateral de página de producto individual"
+
+#: inc/customizer.php:561
+msgid "Hide Shop Page Sidebar"
+msgstr "Ocultar barra lateral de la página de tienda"
+
+#: functions.php:147 inc/customizer.php:599
+msgid "Woocommerce Single Product Page Sidebar"
+msgstr "Barra lateral de la página de producto de WooCommerce"
+
+#: functions.php:137 inc/customizer.php:573
+msgid "Woocommerce Shop Page Sidebar"
+msgstr "Barra lateral de la página de tienda de WooCommerce"
+
+#: inc/customizer.php:475 inc/customizer.php:1220 inc/customizer.php:1466
+#: inc/customizer.php:1482 inc/customizer.php:1517
+msgid "Left"
+msgstr "Izquierda"
+
+#: inc/customizer.php:474 inc/customizer.php:1222 inc/customizer.php:1468
+#: inc/customizer.php:1484 inc/customizer.php:1519
+msgid "Right"
+msgstr "Derecha"
+
+#: inc/customizer.php:1494
+msgid "Show / Hide Copyright"
+msgstr "Mostrar / ocultar copyright"
+
+#: inc/customizer.php:476 inc/customizer.php:1221 inc/customizer.php:1467
+#: inc/customizer.php:1483 inc/customizer.php:1518
+msgid "Center"
+msgstr "Centrar"
+
+#: inc/customizer.php:910
+msgid "Page Settings"
+msgstr "Ajustes de página"
+
+#: inc/customizer.php:933
+msgid "Check this box to enable page thumbnail on single page."
+msgstr "Marca esta casilla para activar la miniatura de página en páginas individuales."
+
+#: inc/customizer.php:931
+msgid "Enable Single Page Thumbnail"
+msgstr "Activar miniatura de página individual"
+
+#: inc/customizer.php:922
+msgid "Check this box to enable title on single page."
+msgstr "Marca esta casilla para activar el título en página individual."
+
+#: inc/customizer.php:920
+msgid "Enable Single Page Title"
+msgstr "Activar título de página individual"
+
+#: inc/customizer.php:688
+msgid "Check this box to enable thumbnail on post page."
+msgstr "Marca esta casilla para activar la miniatura en la página de entradas."
+
+#: inc/customizer.php:686
+msgid "Enable Post Page Thumbnail"
+msgstr "Activar la miniatura de la página de entradas"
+
+#: inc/customizer.php:677
+msgid "Check this box to enable title on post page."
+msgstr "Marca esta casilla para activar el título en la página de entradas."
+
+#: inc/customizer.php:675
+msgid "Enable Post Page Title"
+msgstr "Activar el título de la página de entradas"
+
+#: inc/customizer.php:833
+msgid "Check this box to enable title on single post."
+msgstr "Marca esta casilla para activar el título en entradas individuales."
+
+#: inc/customizer.php:831
+msgid "Enable Single Post Title"
+msgstr "Activar título de entrada individual"
+
+#: inc/customizer.php:790
+msgid "Check this box to enable post thumbnail on single post."
+msgstr "Marca esta casilla para activar la miniatura de entrada en entradas individuales."
+
+#: inc/customizer.php:788
+msgid "Enable Single Post Thumbnail"
+msgstr "Activar miniatura en entradas individuales"
+
+#: inc/customizer.php:665
+msgid "Post Settings"
+msgstr "Ajustes de entradas"
+
+#: inc/customizer.php:550
+msgid "Product per page"
+msgstr "Productos por página"
+
+#: inc/customizer.php:535
+msgid "Product per row"
+msgstr "Productos por fila"
+
+#: inc/customizer.php:1358
+msgid "Enable Disable Services"
+msgstr "Activar / desactivar servicios"
+
+#: inc/customizer.php:145 inc/customizer.php:183 inc/customizer.php:349
+#: inc/customizer.php:658 inc/customizer.php:903 inc/customizer.php:943
+#: inc/customizer.php:1089 inc/customizer.php:1343 inc/customizer.php:1403
+#: inc/customizer.php:1539
+msgid "Customizer Options"
+msgstr "Opciones del personalizador"
+
+#: inc/customizer.php:17
+msgid "Buy Smart Cleaning Pro"
+msgstr "Compra Smart Cleaning Pro"
+
+#: inc/customizer.php:1149
+msgid "Enable Disable Slider"
+msgstr "Activar / desactivar carrusel"
+
+#: inc/customizer.php:958
+msgid "Enable Disable Social"
+msgstr "Activar / desactivar social"
+
+#: inc/customizer.php:198
+msgid "Enable Disable Header"
+msgstr "Activar / desactivar cabecera"
+
+#: inc/customizer.php:93
+msgid "Logo Width"
+msgstr "Ancho del logo"
+
+#: inc/customizer.php:1160
+msgid "Enable Disable Slider Loop"
+msgstr "Activar / desactivar carrusel en bucle"
+
+#: inc/customizer.php:459
+msgid "Show Theme Scroll To Top"
+msgstr "Mostrar el «Volver arriba» del tema"
+
+#: inc/customizer.php:1068
+msgid "Select font awesome icons <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Click Here</a> for select icon. for eg:-fab fa-pinterest-p"
+msgstr "Selecciona un icono de Font Awesome <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Haz clic aquí</a> para seleccionar el icono. Por ejemplo:-fab fa-pinterest-p"
+
+#: inc/customizer.php:1040
+msgid "Add Linkedin Icon"
+msgstr "Añadir icono de Linkedin"
+
+#: inc/customizer.php:1021
+msgid "Select font awesome icons <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Click Here</a> for select icon. for eg:-fab fa-instagram"
+msgstr "Selecciona un icono de Font Awesome <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Haz clic aquí</a> para seleccionar el icono. Por ejemplo:-fab fa-instagram"
+
+#: inc/customizer.php:1016 inc/customizer.php:1063
+msgid "Add Intagram Icon"
+msgstr "Añadir icono de Instagram"
+
+#: inc/customizer.php:998
+msgid "Select font awesome icons <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Click Here</a> for select icon. for eg:-fab fa-twitter"
+msgstr "Selecciona un icono de Font Awesome <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Haz clic aquí</a> para seleccionar el icono. Por ejemplo:-fab fa-twitter"
+
+#: inc/customizer.php:1045
+msgid "Select font awesome icons <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Click Here</a> for select icon. for eg:-fab fa-linkedin-in"
+msgstr "Selecciona un icono de Font Awesome <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Haz clic aquí</a> para seleccionar el icono. Por ejemplo:-fab fa-linkedin-in"
+
+#: inc/customizer.php:974
+msgid "Select font awesome icons <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Click Here</a> for select icon. for eg:-fab fa-facebook-f"
+msgstr "Selecciona un icono de Font Awesome <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Haz clic aquí</a> para seleccionar el icono. Por ejemplo:-fab fa-facebook-f"
+
+#: inc/customizer.php:328
+msgid "Select font awesome icons <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Click Here</a> for select icon. for eg:-fas fa-phone"
+msgstr "Selecciona un icono de Font Awesome <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Haz clic aquí</a> para seleccionar el icono. Por ejemplo:-fas fa-phone"
+
+#: inc/customizer.php:304
+msgid "Select font awesome icons <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Click Here</a> for select icon. for eg:-fas fa-map-marker-alt"
+msgstr "Selecciona un icono de Font Awesome <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Haz clic aquí</a> para seleccionar el icono. Por ejemplo:-fas fa-map-marker-alt"
+
+#: inc/customizer.php:214
+msgid "Select font awesome icons <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Click Here</a> for select icon. for eg:-fas fa-envelope"
+msgstr "Selecciona un icono de Font Awesome <a target=\"_blank\" href=\"https://fontawesome.com/v5/search?m=free\">Haz clic aquí</a> para seleccionar el icono. Por ejemplo:-fas fa-envelope"
+
+#: inc/customizer.php:993
+msgid "Add Twitter Icon"
+msgstr "Añadir icono de Twitter"
+
+#: inc/customizer.php:969
+msgid "Add Facebook Icon"
+msgstr "Añadir icono de Facebook"
+
+#: inc/customizer.php:323
+msgid "Add Phone Number Icon"
+msgstr "Añadir icono de número de teléfono"
+
+#: inc/customizer.php:299
+msgid "Add Location Icon"
+msgstr "Añadir icono de ubicación"
+
+#: inc/customizer.php:209
+msgid "Add Email Address Icon"
+msgstr "Añadir icono de dirección de correo electrónico"
+
+#: inc/customizer.php:114
+msgid "Enable Disable Tagline"
+msgstr "Activar / desactivar descripción corta"
+
+#: inc/customizer.php:103
+msgid "Enable Disable Title"
+msgstr "Activar / desactivar título"
+
+#: inc/customizer.php:171
+msgid "Second Color Option"
+msgstr "Opción del segundo color"
+
+#: inc/customizer.php:161
+msgid "First Color Option"
+msgstr "Opción del primer color"
+
+#: functions.php:167
+msgid "Footer Column 2"
+msgstr "Columna 2 del pie de página"
+
+#: functions.php:177
+msgid "Footer Column 3"
+msgstr "Columna 3 del pie de página"
+
+#: functions.php:157
+msgid "Footer Column 1"
+msgstr "Columna 1 del pie de página"
+
+#: functions.php:515
+msgid "Theme Options"
+msgstr "Opciones del tema"
+
+#: inc/customizer.php:1271
+msgid "Ex: 9:00am to 9:00pm"
+msgstr "Ej: de 9:00 a 21:00"
+
+#: inc/customizer.php:1259
+msgid "Ex: Friday - Sunday"
+msgstr "Ej: Viernes - Domingo"
+
+#: functions.php:495
+msgid "https://wordpress.org/support/theme/smart-cleaning/reviews/#new-post"
+msgstr "https://wordpress.org/support/theme/smart-cleaning/reviews/#new-post"
+
+#: functions.php:492
+msgid "https://wordpress.org/support/theme/smart-cleaning"
+msgstr "https://wordpress.org/support/theme/smart-cleaning"
+
+#: functions.php:623
+msgid "Easy Google Fonts"
+msgstr "Easy Google Fonts"
+
+#: functions.php:585
+msgid "Premium Version"
+msgstr "Versión Premium"
+
+#: functions.php:575
+msgid "View Theme Demo"
+msgstr "Ver demo del tema"
+
+#: functions.php:607
+msgid "Premium Support"
+msgstr "Soporte premium"
+
+#: functions.php:542
+msgid "Get Premium"
+msgstr "Hazte Premium"
+
+#: functions.php:591
+msgid "Header Background Color"
+msgstr "Color de fondo de la cabecera"
+
+#: functions.php:530 functions.php:533
+msgid "Contact Support"
+msgstr "Contactar con soporte"
+
+#: functions.php:706
+msgid "Go Premium"
+msgstr "Hazte premium"
+
+#: functions.php:698
+msgid "Importable Demo Content\t"
+msgstr "Contenido de ejemplo importable\t"
+
+#: functions.php:693
+msgid "Customize Background Color"
+msgstr "Personalizar el color de fondo"
+
+#: functions.php:688
+msgid "Customize Sidebar Color"
+msgstr "Personalizar el color de la barra lateral"
+
+#: functions.php:683
+msgid "Customize Footer Color"
+msgstr "Personalizar el color del pie de página"
+
+#: functions.php:678
+msgid "Customize Blog Feed Color"
+msgstr "Personalizar el color del feed del blog"
+
+#: functions.php:673
+msgid "Customize Post/Page Color"
+msgstr "Personalizar el color de las entradas y páginas"
+
+#: functions.php:668
+msgid "Customize Navigation Color"
+msgstr "Personalizar el color de la navegación"
+
+#: functions.php:663
+msgid "Customize Upper Widgets Colors"
+msgstr "Personalizar los colores de los widgets superiores"
+
+#: functions.php:658
+msgid "Replace Copyright Text"
+msgstr "Reemplazar el texto de copyright"
+
+#: functions.php:653
+msgid "Only Show Upper Widgets On Front Page"
+msgstr "Mostrar los widgets superiores solo en la página de inicio"
+
+#: functions.php:648
+msgid "Full Width (Hide Sidebar)"
+msgstr "Ancho completo (ocultar la barra lateral)"
+
+#: functions.php:643
+msgid "Custom Text On Header Image"
+msgstr "Texto personalizado en la imagen de la cabecera"
+
+#: functions.php:638
+msgid "Show Header Everywhere"
+msgstr "Mostrar la cabecera en todas partes"
+
+#: functions.php:633
+msgid "Only Show Header Image On Front Page"
+msgstr "Mostrar la imagen de cabecera solo en la página de inicio"
+
+#: functions.php:628
+msgid "Pagespeed Plugin"
+msgstr "Plugin Pagespeed"
+
+#: functions.php:617
+msgid "Recent Posts Widget"
+msgstr "Widget de entradas recientes"
+
+#: functions.php:612
+msgid "Fully SEO Optimized"
+msgstr "Completamente optimizado para SEO"
+
+#: functions.php:601
+msgid "Hide Logo Text"
+msgstr "Ocultar el texto del logotipo"
+
+#: functions.php:596
+msgid "Custom Navigation Logo Or Text"
+msgstr "Logotipo o texto de navegación personalizado"
+
+#: functions.php:584
+msgid "Basic Version"
+msgstr "Versión básica"
+
+#: functions.php:583
+msgid "Theme Feature"
+msgstr "Características del tema"
+
+#: functions.php:572
+msgid "Checkout Documentation"
+msgstr "Comprobar la documentación"
+
+#: functions.php:569
+msgid "Free Vs Premium"
+msgstr "Gratis vs Premium"
+
+#: functions.php:549
+msgid "If You love Smart Cleaning theme then we would appreciate your review about our theme."
+msgstr "Si te gusta el tema Smart Cleaning, te agradeceríamos quenos dejaras una reseña sobre él."
+
+#: functions.php:548 functions.php:551
+msgid "Review"
+msgstr "Reseña"
+
+#: functions.php:540
+msgid "Our premium theme comes with extended features like demo content import , responsive layouts etc."
+msgstr "Nuestro tema premium viene con características extendidas como la importación de contenido de demostración, diseños adaptables, etc."
+
+#: functions.php:539
+msgid "Checkout Premium"
+msgstr "Comprobar premium"
+
+#: functions.php:531
+msgid "Thank you for trying Smart Cleaning , feel free to contact us for any support regarding our theme."
+msgstr "Gracias por probar Smart Cleaning , no dudes en ponerte en contacto con nosotros para cualquier ayuda relacionada con nuestro tema."
+
+#: functions.php:525
+msgid "Welcome To "
+msgstr "Bienvenido a "
+
+#: functions.php:504
+msgid "https://demo.themagnifico.net/eard/wathiqa/smart-cleaning-pro-doc/"
+msgstr "https://demo.themagnifico.net/eard/wathiqa/smart-cleaning-pro-doc/"
+
+#: functions.php:501
+msgid "https://www.themagnifico.net/products/cleaning-wordpress-theme"
+msgstr "https://www.themagnifico.net/products/cleaning-wordpress-theme"
+
+#: inc/customizer.php:356
+msgid "General Settings"
+msgstr "Ajustes generales"
+
+#: inc/customizer.php:426
+msgid "Preloader Second Dot Color"
+msgstr "Color del segundo punto del precargador"
+
+#: inc/customizer.php:415
+msgid "Preloader First Dot Color"
+msgstr "Color del primer punto del precargador"
+
+#: inc/customizer.php:405
+msgid "Preloader Background Color"
+msgstr "Color de fondo del precargador"
+
+#: inc/customizer.php:380
+msgid "Show Theme Preloader"
+msgstr "Mostrar el precargador del tema"
+
+#: inc/customizer.php:448
+msgid "Show Sticky Header"
+msgstr "Mostrar cabecera fija"
+
+#: inc/customizer.php:152
+msgid "Theme Color"
+msgstr "Color del tema"
+
+#. Template Name of the theme
+msgid "Full Width Template"
+msgstr "Plantilla de ancho completo"
+
+#: inc/customizer.php:1141
+msgid "Slider Option"
+msgstr "Opción de carrusel"
+
+#: inc/customizer.php:312 template-parts/topheader/mainheader.php:33
+msgid "Location"
+msgstr "Ubicación"
+
+#: inc/customizer.php:1053
+msgid "Linkedin Link"
+msgstr "Enlace a Linkedin"
+
+#: inc/customizer.php:1076
+msgid "Pinterest Link"
+msgstr "Enlace a Pinterest"
+
+#: inc/customizer.php:1350
+msgid "Our Services"
+msgstr "Nuestros servicios"
+
+#: inc/customizer.php:1006
+msgid "Twitter Link"
+msgstr "Enlace a Twitter"
+
+#: inc/customizer.php:982
+msgid "Facebook Link"
+msgstr "Enlace a Facebook"
+
+#. Template Name of the theme
+msgid "Left sidebar"
+msgstr "Barra lateral izquierda"
+
+#: inc/customizer.php:336
+msgid "Phone Number"
+msgstr "Número de teléfono"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Debes estar conectado para para poder finalizar la compra."
+
+#: woocommerce/checkout/form-checkout.php:51
+msgid "Your order"
+msgstr "Tu pedido"
+
+#: inc/customizer.php:222
+msgid "Email Address"
+msgstr "Dirección de correo electrónico"
+
+#: inc/customizer.php:1368
+msgid "Section Title"
+msgstr "Título de la sección"
+
+#: inc/customizer.php:950
+msgid "Social Links"
+msgstr "Enlaces sociales"
+
+#: template-parts/navigation/navigation-top.php:14
+msgid "Top Menu"
+msgstr "Menú superior"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:35
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Seguir leyendo<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#. translators: %s: post title
+#: comments.php:32
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Un comentario sobre «%s»"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:44
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Editar <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/customizer.php:190
+msgid "Header"
+msgstr "Cabecera"
+
+#: footer.php:76
+msgid "https://wordpress.org/"
+msgstr "https://es.wordpress.org/"
+
+#. translators: %s: post title
+#: inc/template-tags.php:42
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Deja un comentario<span class=\"screen-reader-text\"> en %s</span>"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:72
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#: functions.php:62
+msgid "Footer Menu"
+msgstr "Menú del pie de página"
+
+#. translators: %s: CMS name, i.e. WordPress.
+#: footer.php:79
+msgid "Proudly powered by %s"
+msgstr "Funciona gracias a %s"
+
+#: functions.php:129
+msgid "Add widgets here."
+msgstr "Añade widgets aquí."
+
+#: template-parts/topheader/topheader.php:27
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: inc/template-tags.php:175
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:61
+msgid "Primary"
+msgstr "Principal"
+
+#: comments.php:55 comments.php:69
+msgid "Older Comments"
+msgstr "Comentarios anteriores"
+
+#: comments.php:56 comments.php:70
+msgid "Newer Comments"
+msgstr "Comentarios más recientes"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Parece que aquí no hay nada. ¿por qué no pruebas uno de estos enlaces o la búsqueda?"
+
+#: inc/template-tags.php:201
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está pendiente de moderación."
+
+#: page-template/home-template.php:93
+msgid "Read More"
+msgstr "Leer más"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! No se puede encontrar esa página."
+
+#: functions.php:127
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: comments.php:53 comments.php:67
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: header.php:42
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: inc/template-tags.php:176 inc/template-tags.php:196
+msgid "Edit"
+msgstr "Editar"
+
+#. translators: %s: search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda: %s"
+
+#: template-parts/content-none.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo sentimos, pero nada coincide con tus términos de búsqueda. Por favor, prueba de nuevo con algunas palabras diferentes."
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no encontramos lo que estás buscando. Puede que una búsqueda te ayude."
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:56 inc/template-tags.php:62
+msgid ", "
+msgstr ", "
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: comments.php:80
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: template-parts/content-audio.php:50 template-parts/content-gallery.php:38
+#: template-parts/content-image.php:35 template-parts/content-page.php:31
+#: template-parts/content-single.php:46 template-parts/content-video.php:49
+#: template-parts/content.php:35
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: footer.php:104
+msgid "TOP"
+msgstr "ARRIBA"
+
+#: template-parts/topheader/mainheader.php:38
+msgid "Call Us"
+msgstr "Llámanos"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Preparado para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr "Buscar"
+
+#: searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr "Buscar:"
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Buscar &hellip;"
+
+#: page-template/home-template.php:50
+msgid "Book Online"
+msgstr "Reserva online"
+
+#. Template Name of the theme
+msgid "Home Template"
+msgstr "Plantilla de la página de inicio"
+
+#. translators: %s: Tagged
+#: inc/template-tags.php:65
+msgid "Tagged %1$s"
+msgstr "Etiquetado como %1$s"
+
+#. translators: 1: number of Post
+#: inc/template-tags.php:58
+msgid "Posted in %1$s"
+msgstr "Publicado en %1$s"
+
+#. translators: %s: post date
+#. translators: %s: post author
+#: inc/template-tags.php:27 inc/template-tags.php:33
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr "<span class=\"screen-reader-text\">Publicado </span> %s"
+
+#: inc/customizer.php:1502
+msgid "Replace the footer text"
+msgstr "Reemplazar el texto del pie de página"
+
+#: inc/customizer.php:1410
+msgid "Footer"
+msgstr "Pie de página"
+
+#: inc/customizer.php:1392
+msgid "Select Category to display box post"
+msgstr "Selecciona la categoría que mostrar  en la caja de entradas"
+
+#: inc/customizer.php:1270
+msgid "Time"
+msgstr "Hora"
+
+#: inc/customizer.php:1258
+msgid "Days"
+msgstr "Días"
+
+#: inc/customizer.php:1205
+msgid "Select Slide Page"
+msgstr "Seleccionar página de diapositiva"
+
+#: inc/customizer.php:1029
+msgid "Intagram Link"
+msgstr "Enlace de Instagram"
+
+#: inc/customizer.php:288
+msgid "Link 3"
+msgstr "Enlace 3"
+
+#: inc/customizer.php:277
+msgid "Text 3"
+msgstr "Texto 3"
+
+#: inc/customizer.php:266
+msgid "Link 2"
+msgstr "Enlace 2"
+
+#: inc/customizer.php:255
+msgid "Text 2"
+msgstr "Texto 2"
+
+#: inc/customizer.php:244
+msgid "Link 1"
+msgstr "Enlace 1"
+
+#: inc/customizer.php:233
+msgid "Text 1"
+msgstr "Texto 1"
+
+#: inc/customizer.php:30
+msgid "GET PREMIUM"
+msgstr "OBTENER PREMIUM"
+
+#: inc/customizer.php:14
+msgid "Smart Cleaning Pro"
+msgstr "Smart Cleaning Pro"
+
+#. translators: 1: Theme author.
+#: footer.php:92
+msgid "by %1$s."
+msgstr "de %1$s."
+
+#. translators: 1: Theme name,
+#: footer.php:87
+msgid " %1$s "
+msgstr " %1$s "
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentario sobre «%2$s»"
+msgstr[1] "%1$s comentarios sobre «%2$s»"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.themagnifico.net/"
+msgstr "https://www.themagnifico.net/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "TheMagnifico52"
+msgstr "TheMagnifico52"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.themagnifico.net/products/free-cleaning-wordpress-theme"
+msgstr "https://www.themagnifico.net/products/free-cleaning-wordpress-theme"

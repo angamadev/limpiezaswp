@@ -1,0 +1,176 @@
+@charset "UTF-8";
+/*
+Theme Name: Smart Cleaning Company
+Author: TheMagnifico52
+Theme URI: https://www.themagnifico.net/products/free-cleaning-company-wordpress-theme
+Author URI: https://www.themagnifico.net/
+Description: Smart Cleaning Company is a suitable free WordPress Theme for professional cleaning companies, labor services, apartment cleaners, industrial cleaning, plumbing services, housemaid solutions, washing services, housekeeping facilities, etc. This theme is a sophisticated theme with a retina-ready design and user-friendly interface allowing users with or without any coding skills to create a stunning website. The responsive layout fits every screen no matter what the screen sizes and resolutions are. The entire design is clean and minimal focusing on the content and important info. There are many personalization options available with the theme making it suitable to be used as a multipurpose theme. There are a lot of Call to Action Button (CTA) to look for the conversions and social media options that will take care of the promotions. Optimized codes of the theme make sure that you get a lightweight website that is easy to load and gives a faster page load time. The clean codes improve your website’s performance and its mobile-friendly design make it work well on mobile devices. This modern theme is interactive and comes with a Bootstrap-based design. This makes it easy to work with the theme, and there are translation-ready options available as it is WPML and RTL compatible.
+Version: 2.3.3
+Tested up to: 6.6
+Requires PHP: 7.2
+Requires at least: 5.0
+License: GNU General Public License v3.0
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Template: smart-cleaning
+Text Domain: smart-cleaning-company
+Tags: custom-logo, one-column, two-columns, wide-blocks, block-styles, editor-style, sticky-post, custom-background, custom-colors, custom-header, custom-menu, footer-widgets, featured-images, flexible-header, full-width-template, threaded-comments, theme-options, rtl-language-support, left-sidebar, right-sidebar, grid-layout, blog, e-commerce, food-and-drink
+
+Smart Cleaning Company WordPress Theme has been created by TheMagnifico52(themagnifico.net), 2022.
+Smart Cleaning Company WordPress Theme is released under the terms of GNU GPL
+*/
+
+body{
+    background: #e3f9ff;
+    color: #4f5c6b;
+    font-family: 'Open Sans', sans-serif;
+}
+a{
+    text-decoration: none !important;
+}
+.sidebar ul li a{
+    color: #4f5c6b;
+}
+a, .sidebar ul li a:hover, .widget a:hover, .widget a:focus, p.price, .woocommerce ul.products li.product .price, .woocommerce div.product p.price, .woocommerce div.product span.price, .woocommerce-message::before, .woocommerce-info::before, .featured-imagebox h4 a, #featured-topic h3, .main-navigation .sub-menu > li > a:hover, .main-navigation .sub-menu > li > a:focus,.navbar-brand a{
+    color: #5ebed6;
+}
+.socialmedia .main_header, .sidebar h5, #colophon, .post-navigation .nav-previous a:hover, .post-navigation .nav-next a:hover, .posts-navigation .nav-previous a:hover, .posts-navigation .nav-next a:hover, .sticky .entry-title::before, .main-navigation .sub-menu,  .timebox,.sidebar .tagcloud a:hover, .load hr, .navigation.pagination .nav-links a.current, .navigation.pagination .nav-links a:hover, .navigation.pagination .nav-links span.current, .navigation.pagination .nav-links span:hover {
+    background: #5ebed6;
+}
+.comment-respond input#submit, #button, .sidebar input[type="submit"], .sidebar button[type="submit"], .wp-block-button__link, .pro-button a, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce .woocommerce-ordering select, .woocommerce-account .woocommerce-MyAccount-navigation ul li, .btn-primary, .toggle-nav i,.slide-btn a,.servbtn a{
+    background: #ffa500;
+}
+.btn-primary,.wp-block-quote, .wp-block-quote:not(.is-large):not(.is-style-large), .wp-block-pullquote, .navigation.pagination .nav-links a.current, .navigation.pagination .nav-links a:hover, .navigation.pagination .nav-links span.current, .navigation.pagination .nav-links span:hover{
+    border-color: #5ebed6 !important;
+}
+.article-box a:hover{
+  color: #ffa500;
+}
+h1, h2, h3, h4, h5, h6,.top-info p, .top-info span,.top-info i,.main-navigation .menu > li > a,.top-info a,.article-box a,#featured-topic h3{
+    color: #293f5b;
+}
+.page-template-home-template .socialmedia,.sidebar section,.socialmedia {
+    background: #fff;
+}
+.main-navigation .menu > li > a,.main-navigation .menu > li > a:hover{
+    border: none;
+}
+.main-navigation .menu > li > a:hover, #site-navigation .menu ul li a:hover{
+    color: #5ebed6;
+}
+.main-navigation ul.sub-menu > li > a:hover, .main-navigation ul.sub-menu > li > a:focus {
+    background: #003e7d;
+    color: #fff !important;
+}
+#site-navigation .menu ul li a{
+    font-size: 12px;
+    font-weight: 600;
+}
+.woocommerce-account .woocommerce-MyAccount-navigation ul li:hover, a.added_to_cart.wc-forward:hover,.main-navigation .sub-menu > li > a:hover, .main-navigation .sub-menu > li > a:focus,.slide-btn a:hover, .servbtn a:hover,.pro-button a:hover, .woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover,.box-content .servbtn a:hover{
+    background: #293f5b;
+    color: #fff;
+}
+.woocommerce-account .woocommerce-MyAccount-navigation ul li a:hover{
+    color: #fff;
+}
+.main_header i,.slide-btn a, .servbtn a {
+    color: #fff;
+}
+.main_header p {
+    font-weight: 500;
+}
+.main-navigation .menu > li{
+    font-size: 12px;
+    font-weight: 600;
+}
+.navbar-brand{
+    display: block;
+}
+.navigation_header .nav {
+    justify-content: flex-end;
+}
+
+/* Slider Section */
+
+.slider-box:after {
+    content: none;
+    height: auto;
+    position: static;
+    background-image: transparent;
+}
+.slider-inner-box h2{
+    text-transform: none;
+    font-size: 55px;
+}
+.slider-inner-box {
+    right: 55%;
+}
+#colophon a:hover, #colophon a:focus,.main_header p a:hover{
+    color: #ffa500;
+}
+.main_header i:hover{
+    color: #ffa500;
+}
+.sidebar section {
+    padding: 10px;
+}
+/* Services Section */
+
+.box {
+    background: #5ebed6;
+    text-align: center;
+    color: #fff;
+}
+.box-cont h3 a {
+    color: #fff;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+a.added_to_cart.wc-forward {
+    display: table;
+    background: #5ebed6;
+    margin: 6% 0% 0% 21%;
+    color: #fff;
+    border-radius: 4px;
+    padding: 8px 29px 7px 30px;
+    font-weight: 700;
+}
+.woocommerce ul.products li {
+    box-shadow: 0 0 5px 2px #5ebed6;
+}
+.article-box {
+    border: solid 1px #5ebed6;
+    box-shadow: 0 0 5px 2px #5ebed6;
+}
+span.cat-links a, span.tags-links a{
+    color: #5ebed6;
+}
+section#services-topic {
+    background: #dceef3;
+}
+@media screen and (min-width: 320px) and (max-width: 720px){
+    .main-navigation .menu > li > a{
+        color: #fff;
+    }
+    .main-navigation .sub-menu{
+        background: transparent;
+    }
+    .slider-inner-box {
+        right: 10%;
+    }
+    .slider-inner-box h2 {
+        font-size: 25px;
+    }
+}
+@media screen and (max-width: 1000px){
+    .sidenav .closebtn{
+        background: #ffa500;
+    }
+    .main-navigation ul.sub-menu > li > a:hover, .main-navigation ul.sub-menu > li > a:focus, .main-navigation .menu > li > a:hover {
+        background: transparent;
+        color: #5ebed6 !important;
+    }
+    .main-navigation .menu > li > a {
+    color: #fff;
+    }
+}
