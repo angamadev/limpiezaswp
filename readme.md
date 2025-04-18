@@ -15,6 +15,17 @@ Este repositorio documenta un proyecto personal de creación de una página web 
 
 ---
 
+## 🎯 Objetivo
+
+El objetivo de este proyecto es demostrar conocimientos en:
+
+- Instalación y configuración de WordPress
+- Estructuración de contenido y diseño orientado a servicios
+- Optimización para navegabilidad y experiencia de usuario
+
+---
+
+
 ## 🖼️ Capturas
 
 Vista previa del sitio web:
@@ -42,19 +53,6 @@ Vista previa del sitio web:
 
 ---
 
-## 🎯 Objetivo
-
-El objetivo de este proyecto es demostrar conocimientos en:
-
-- Instalación y configuración de WordPress
-- Estructuración de contenido y diseño orientado a servicios
-- Optimización para navegabilidad y experiencia de usuario
-
----
-
-## 📌 Nota
-
-Este sitio es un ejemplo funcional dentro de un entorno de hosting gratuito. No representa a una empresa real.
 
 
 # Descripción del proyecto – Limpiezas WP
@@ -86,3 +84,8 @@ El sitio se aloja de forma gratuita en InfinityFree, lo cual permite hacer prueb
 - Migración a un hosting propio
 - Implementar blog
 - Mejorar SEO con contenido dinámico
+
+## 📌 Nota
+
+Este sitio es un ejemplo funcional dentro de un entorno de hosting gratuito. No representa a una empresa real.
+
