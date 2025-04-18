@@ -1,4 +1,13 @@
 <?php
+
+//Begin Really Simple Security session cookie settings
+@ini_set('session.cookie_httponly', true);
+@ini_set('session.cookie_secure', true);
+@ini_set('session.use_only_cookies', true);
+//END Really Simple Security cookie settings
+//Begin Really Simple Security key
+define('RSSSL_KEY', 'VoCtvwuSw1VNplyTZwP0eJALKf88tZkJVs9GKqTQEsnEPncj17xlALcHccvCMpBG');
+//END Really Simple Security key
 /**
  * The base configuration for WordPress
  *
@@ -21,16 +30,34 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'local' );
+/**define( 'DB_NAME', 'local' );*/
+define( 'DB_NAME', 'if0_38750760_db_limpiezaswp' );
 
 /** Database username */
-define( 'DB_USER', 'root' );
+/** define( 'DB_USER', 'root' );*/
+define( 'DB_USER', 'if0_38750760' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'root' );
+/**define( 'DB_PASSWORD', 'root' );*/
+define( 'DB_PASSWORD', '1xSKrlEyHO' );
 
 /** Database hostname */
-define( 'DB_HOST', 'localhost' );
+/**define( 'DB_HOST', 'localhost' );*/
+define( 'DB_HOST', 'sql106.infinityfree.com' );
+
+// ** Database settings - You can get this info from your web host ** //
+/** The name of the database for WordPress */
+/**define( 'DB_NAME', 'local' );*/
+
+/** Database username */
+/** define( 'DB_USER', 'root' );*/
+
+/** Database password */
+/**define( 'DB_PASSWORD', 'root' );*/
+
+/** Database hostname */
+/**define( 'DB_HOST', 'localhost' );*/
+
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );

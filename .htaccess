@@ -1,4 +1,6 @@
-
+#BEGIN Really Simple Security LETS ENCRYPT
+RewriteRule ^.well-known/(.*)$ - [L]
+#END Really Simple Security LETS ENCRYPT
 # BEGIN WordPress
 # Las directivas (líneas) entre «BEGIN WordPress» y «END WordPress» son
 # generadas dinámicamente y solo deberían ser modificadas mediante filtros de WordPress.
