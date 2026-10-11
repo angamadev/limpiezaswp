@@ -85,6 +85,15 @@ El sitio se aloja de forma gratuita en InfinityFree, lo cual permite hacer prueb
 - Implementar blog
 - Mejorar SEO con contenido dinámico
 
+## ⚙️ Instalación local
+
+El repositorio no incluye `wp-config.php` ni la copia de la base de datos, porque contienen contraseñas. Para montarlo en local:
+
+1. Copia `wp-config-sample.php` como `wp-config.php` y rellena los datos de tu base de datos.
+2. Crea la base de datos e importa una copia exportada desde el hosting.
+
+---
+
 ## 📌 Nota
 
 Este sitio es un ejemplo funcional dentro de un entorno de hosting gratuito. No representa a una empresa real.

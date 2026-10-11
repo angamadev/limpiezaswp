@@ -3,3 +3,8 @@ wp-content/cache/
 node_modules/
 *.log
 .env
+
+# Secretos y copias de la base de datos
+wp-config.php
+db/
+*.sql
